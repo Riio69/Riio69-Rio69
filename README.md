@@ -1,16 +1,17 @@
 ### Rio:
 
-Rioo,Fa.☆#6900
-Rioo,Fa.☆#0103
+### Rioo,Fa.☆#6900
 
-<br />
+### Rioo,Fa.☆#0103
+
 <br />
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr" width="22px" src="[<img align="left" alt="https://discord.gg/neeUx3T" width="22px" src="https://camo.githubusercontent.com/8a8aec3cfa4c355d38d88983fc324290560d39d5/68747470733a2f2f646973636f72642e636f6d2f6173736574732f30376463613830613130326434313439653937333664346231363263666636662e69636f" />][discord]"
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://camo.githubusercontent.com/8a8aec3cfa4c355d38d88983fc324290560d39d5/68747470733a2f2f646973636f72642e636f6d2f6173736574732f30376463613830613130326434313439653937333664346231363263666636662e69636f" />][website]
+
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
